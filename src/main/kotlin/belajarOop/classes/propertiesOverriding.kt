@@ -25,5 +25,4 @@ fun main(){
     println(propertiesOverriding().cetakFirst())
     println(Properties().cetak())
     println(Properties().cetakKedua())
-    println("Contoh")
 }
