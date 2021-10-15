@@ -21,7 +21,6 @@ open class Properties : propertiesOverriding(){
 
 }
 
-
 fun main(){
     println(propertiesOverriding().cetakFirst())
     println(Properties().cetak())
